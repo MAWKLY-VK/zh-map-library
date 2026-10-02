@@ -1,0 +1,275 @@
+# Maps left out
+
+259 map files were not packed.
+
+## Duplicate (232)
+
+- `[AOD] Cobalt Rush v2/[AOD] Cobalt Rush v2/[AOD] Cobalt Rush v2.map` — same file as [AOD] Cobalt Rush v2\[AOD] Cobalt Rush v2.map
+- `[go][rank] snowy drought zh v5/[go][rank] snowy drought zh v5.map` — same file as [RANK] Snowy Drought ZH v5\[RANK] Snowy Drought ZH v5.map
+- `[go][rank] vendetta zh v1/[go][rank] vendetta zh v1.map` — same file as [RANK] Vendetta ZH v1\[RANK] Vendetta ZH v1.map
+- `[Mod] Casino - Islands Of Fortune v6/[Mod] Casino - Islands Of Fortune v6.map` — same file as Casino - Islands Of Fortune v6\Casino - Islands Of Fortune v6.map
+- `[Mod] Casino - Resurrection Four v8/[Mod] Casino - Resurrection Four v8.map` — same file as Casino - Resurrection Four v8\Casino - Resurrection Four v8.map
+- `[Mod] Casino - Resurrection Six v11/[Mod] Casino - Resurrection Six v11.map` — same file as Casino - Resurrection Six v11\Casino - Resurrection Six v11.map
+- `[Mod] Casino - Resurrection Three v6/[Mod] Casino - Resurrection Three v6.map` — same file as Casino - Resurrection Three v6\Casino - Resurrection Three v6.map
+- `[Mod] Casino - Resurrection Two v8/[Mod] Casino - Resurrection Two v8.map` — same file as Casino - Resurrection Two v8\Casino - Resurrection Two v8.map
+- `[Mod] Casino 2v2 - Resurrection Two v2/[Mod] Casino 2v2 - Resurrection Two v2.map` — same file as Casino 2v2 - Resurrection Two v2\Casino 2v2 - Resurrection Two v2.map
+- `[Mod] CTF-Defcon 51MayHem V5/[Mod] CTF-Defcon 51MayHem V5.map` — same file as [Mod] CTF - Defcon 51 v7\[Mod] CTF - Defcon 51 v7.map
+- `[Mod] CTF-Defcon 51MayHem/[Mod] CTF-Defcon 51MayHem.map` — same file as [Mod] CTF - Defcon 51 v7\[Mod] CTF - Defcon 51 v7.map
+- `[Mod] Mayhem - Defcon 51/[Mod] Mayhem - Defcon 51.map` — same file as Defcon 51\Defcon 51.map
+- `[Mod] Mayhem - Defcon 51/[Mod] Mayhem - Defcon 51/[Mod] Mayhem - Defcon 51.map` — same file as Defcon 51\Defcon 51.map
+- `[Mod] Mayhem - Twilight Flame/[Mod] Mayhem - Twilight Flame.map` — same file as [mod] mayhem - twilight f\[Mod] Mayhem - Twilight F.map
+- `[Mod]DominationTankBattleV2/[Mod]DominationTankBattleV2.map` — same file as [Mod]DominationV2\[Mod]DominationV2.map
+- `[NoMoney] !1v1 cXn/[NoMoney] !1v1 cXn.map` — same file as !1v1 cxn\!1v1 cxn.map
+- `[NoMoney] !2v2 cXn/[NoMoney] !2v2 cXn.map` — same file as !2v2 cxn\!2v2 cxn.map
+- `[NoMoney] 1v1v1 pro/[NoMoney] 1v1 Survival.map` — same file as 1v1v1 no money pro\1v1v1 no money pro.map
+- `[RANK] [NMC 2x2] Aftermath/[RANK] [NMC 2x2] Aftermath.map` — same file as [NMC 2x2] Aftermath\[NMC 2x2] Aftermath.map
+- `[RANK] [NMC 2x2] Coastline Wold/[RANK] [NMC 2x2] Coastline Wold.map` — same file as [NMC 2x2] Coastline Wold\[NMC 2x2] Coastline Wold.map
+- `[RANK] [NMC 2x2] Ghostly Rocks/[RANK] [NMC 2x2] Ghostly Rocks.map` — same file as [NMC 2x2] Ghostly Rocks\[NMC 2x2] Ghostly Rocks.map
+- `[RANK] [NMC 2x2] Maguso/[RANK] [NMC 2x2] Maguso.map` — same file as [NMC 2x2] Maguso\[NMC 2x2] Maguso.map
+- `[RANK] [NMC 2x2] Middle Fight/[RANK] [NMC 2x2] Middle Fight.map` — same file as [NMC 2x2] Middle Fight\[NMC 2x2] Middle Fight.map
+- `[RANK] [NMC] Battle on the River/[RANK] [NMC] Battle on the River.map` — same file as [NMC] Battle on the River\[NMC] Battle on the River.map
+- `[RANK] [NMC] Blasted Lands/[RANK] [NMC] Blasted Lands.map` — same file as [NMC] Blasted Lands\[NMC] Blasted Lands.map
+- `[RANK] [NMC] Gorge Drought/[RANK] [NMC] Gorge Drought.map` — same file as [NMC] Gorge Drought\[NMC] Gorge Drought.map
+- `[RANK] [NMC] Plant Waste/[RANK] [NMC] Plant Waste.map` — same file as [NMC] Plant Waste\[NMC] Plant Waste.map
+- `[RANK] [NMC] Summer Arena/[RANK] [NMC] Summer Arena.map` — same file as [NMC] Summer Arena\[NMC] Summer Arena.map
+- `[RANK] [NMC] Tournament Arena/[RANK] [NMC] Tournament Arena.map` — same file as [NMC] Tournament Arena\[NMC] Tournament Arena.map
+- `[RANK] [NMC] Tournament City/[RANK] [NMC] Tournament City.map` — same file as [NMC] Tournament City\[NMC] Tournament City.map
+- `[RANK] Arctic Arena ZH v1/[RANK] Arctic Arena ZH v1.map` — same file as Arctic Arena v8\Arctic Arena v8.map
+- `[RANK] Arena of War ZH vX/[RANK] Arena of War ZH vX.map` — same file as Arena of War ZH vX\Arena of War ZH vX.map
+- `[RANK] Arizona Airfield ZH v1/[RANK] Arizona Airfield ZH v1.map` — same file as Arizona Airfield v4\Arizona Airfield v4.map
+- `[RANK] Barren Badlands Balanced ZH v1/[RANK] barren badlands balanced zh v1.map` — same file as Barren Badlands Balanced ZH v1\Barren Badlands Balanced ZH v1.map
+- `[RANK] Bounty v3/[RANK] Bounty v3.map` — same file as Bounty v3\Bounty v3.map
+- `[RANK] Bozic Destruction ZH v3/[RANK] Bozic Destruction ZH v3.map` — same file as Bozic Destruction ZH v3\Bozic Destruction ZH v3.map
+- `[RANK] Canyon of the Dead v1/[RANK] Canyon of the Dead v1.map` — same file as Canyon of the Dead v1\Canyon of the Dead v1.map
+- `[RANK] Christmas ZH v3/[RANK] Christmas ZH v3.map` — same file as Christmas ZH v3\Christmas ZH v3.map
+- `[RANK] Coastal Conflict ZH v2/[RANK] Coastal Conflict ZH v2.map` — same file as Coastal Conflict ZH v2\Coastal Conflict ZH v2.map
+- `[RANK] Cold Territory ZH v2/[RANK] Cold Territory ZH v2.map` — same file as Cold Territory ZH v2\Cold Territory ZH v2.map
+- `[RANK] Combat Encounter ZH v1/[RANK] Combat Encounter ZH v1.map` — same file as 1 MAPS FROM MAP.INI\Combat Encounter\Combat Encounter.map
+- `[RANK] Conflict Zone ZH v2/[RANK] Conflict Zone ZH v2.map` — same file as Conflict Zone ZH v2\Conflict Zone ZH v2.map
+- `[RANK] Dammed Scorpion ZH v1/[RANK] Dammed Scorpion ZH v1.map` — same file as Dammed Scorpion v2\Dammed Scorpion v2.map
+- `[RANK] Desolated District ZH v1 DRAFT/[RANK] Desolated District ZH v1 DRAFT.map` — same file as Desolated District ZH v1 DRAFT\Desolated District ZH v1 DRAFT.map
+- `[RANK] Flash Fire Balanced ZH v1/[RANK] Flash Fire Balanced ZH v1.map` — same file as Flash Fire Balanced ZH v1\Flash Fire Balanced ZH v1.map
+- `[RANK] flash fire balanced zh vb/[RANK] flash fire balanced zh vb.map` — same file as Flash Fire Balanced ZH vB\Flash Fire Balanced ZH vB.map
+- `[RANK] Forbidden Takover ZH v2/[RANK] Forbidden Takover ZH v2.map` — same file as Forbidden Takover ZH v2\Forbidden Takover ZH v2.map
+- `[RANK] Forgotten Air Battle v2/[RANK] Forgotten Air Battle v2.map` — same file as Forgotten Air Battle v2\Forgotten Air Battle v2.map
+- `[RANK] forgotten air battle v4/[RANK] forgotten air battle v4.map` — same file as Forgotten Air Battle v4\Forgotten Air Battle v4.map
+- `[RANK] Forgotten Factory ZH v1/[RANK] Forgotten Factory ZH v1.map` — same file as [RANK] Forgotten\[RANK] Forgotten Factory ZH v1.map
+- `[RANK] Hard Winter ZH v2/[RANK] Hard Winter ZH v2.map` — same file as Hard Winter ZH v2\Hard Winter ZH v2.map
+- `[RANK] Homeland Rocks ZH v3/[RANK] Homeland Rocks ZH v3.map` — same file as Homeland Rocks ZH v3\Homeland Rocks ZH v3.map
+- `[RANK] jungle wolf zh v1/[RANK] jungle wolf zh v1.map` — same file as jungle wolf zh v1\jungle wolf zh v1.map
+- `[RANK] Lagoon ZH v2/[RANK] Lagoon ZH v2.map` — same file as Lagoon ZH v2\Lagoon ZH v2.map
+- `[RANK] Melting Snow ZH v2/[RANK] Melting Snow ZH v2.map` — same file as Melting Snow ZH v2\Melting Snow ZH v2.map
+- `[RANK] Onza Map v1/[RANK] Onza Map v1.map` — same file as Onza Map v1\Onza Map v1.map
+- `[RANK] Persian Gulf Conflict ZH v1/[RANK] Persian Gulf Conflict ZH v1.map` — same file as Persian Gulf Conflict fx\Persian Gulf Conflict fx.map
+- `[RANK] Sand Serpent Balanced ZH v1/[RANK] Liquid Gold ZH v2/[RANK] Liquid Gold ZH v2.map` — same file as [RANK] Liquid Gold ZH v2\[RANK] Liquid Gold ZH v2.map
+- `[RANK] Sand Serpent FIXED/[RANK] Sand Serpent FIXED.map` — same file as Sand Serpent FIXED\Sand Serpent FIXED.map
+- `[RANK] Scorched Earth ZH v3/[RANK] Scorched Earth ZH v3.map` — same file as Scorched Earth ZH v3\Scorched Earth ZH v3.map
+- `[RANK] Snow Blind ZH v1/[RANK] Snow Blind ZH v1.map` — same file as Snow Blind ZH v1\Snow Blind ZH v1.map
+- `[RANK] Taiga Terror ZH v1/[RANK] Taiga Terror ZH v1.map` — same file as Taiga Terror\Taiga Terror.map
+- `[RANK] TD Classic NoCars ZH v1/[RANK] TD Classic NoCars ZH v1.map` — same file as TD Classic NoCars ZH v1\TD Classic NoCars ZH v1.map
+- `[RANK] TD NoBugs ZH v1/[RANK] TD NoBugs ZH v1.map` — same file as TD NoBugs ZH v1\TD NoBugs ZH v1.map
+- `[RANK] TD NoBugsCars ZH v1/[RANK] TD NoBugsCars ZH v1.map` — same file as TD NoBugsCars ZH v1\TD NoBugsCars ZH v1.map
+- `[RANK] TD OpenMiddle NoCars ZH v1/[RANK] TD OpenMiddle NoCars ZH v1.map` — same file as TD OpenMiddle NoCars ZH v1\TD OpenMiddle NoCars ZH v1.map
+- `[RANK] TD OpenMiddle ZH v1/[RANK] TD OpenMiddle ZH v1.map` — same file as TD OpenMiddle ZH v1\TD OpenMiddle ZH v1.map
+- `[RANK] TD Resurrection V2/[RANK] TD Resurrection V2.map` — same file as TD Resurrection V2\TD Resurrection V2.map
+- `[RANK] td winter zh v1/[RANK] td winter zh v1.map` — same file as td winter zh v1\td winter zh v1.map
+- `[RANK] The First Strike ZH v2/[RANK] The First Strike ZH v2.map` — same file as The First Strike ZH v2\The First Strike ZH v2.map
+- `[RANK] The Path ZH v2/[RANK] The Path ZH v2.map` — same file as The Path ZH v2\The Path ZH v2.map
+- `[RANK] Toxic ZH v3/[RANK] Toxic ZH v3.map` — same file as Toxic ZH v3\Toxic ZH v3.map
+- `[RANK] Twilight Flame Golden Caves/[RANK] Twilight Flame Golden Caves/[RANK] Twilight Flame Golden Caves.map` — same file as [RANK] Twilight Flame Golden Caves\[RANK] Twilight Flame Golden Caves.map
+- `[RANK] Winter Wolf Balanced ZH v1/[RANK] Winter Wolf Balanced ZH v1.map` — same file as Winter Wolf Balanced ZH v1\Winter Wolf Balanced ZH v1.map
+- `1 MAPS FROM MAP.INI/Ancient Keep Balanced/Ancient Keep Balanced.map` — same file as Ancient Keep Bal [WBC2021]\Ancient Keep Bal [WBC2021].map
+- `1 MAPS FROM MAP.INI/Arctic Arena v5/Arctic Arena v5.map` — same file as Arctic Arena v5\Arctic Arena v5.map
+- `1 MAPS FROM MAP.INI/Arctic Arena v8/Arctic Arena v8.map` — same file as Arctic Arena v8\Arctic Arena v8.map
+- `1 MAPS FROM MAP.INI/Arctic National Wildlife Refuge/Arctic National Wildlife Refuge.map` — same file as 1 MAPS FROM MAP.INI\arcticnationalwildliferefuge\arcticnationalwildliferefuge.map
+- `1 MAPS FROM MAP.INI/Arena del Sino-Arena of Fate/Arena del Sino-Arena of Fate.map` — same file as 1 MAPS FROM MAP.INI\arenaoffate\arenaoffate.map
+- `1 MAPS FROM MAP.INI/Arizona Airfield/Arizona Airfield.map` — same file as Arizona Airfield\Arizona Airfield.map
+- `1 MAPS FROM MAP.INI/Battle Fortress III - The Gauntlet/Battle Fortress III - The Gauntlet.map` — same file as 1 MAPS FROM MAP.INI\battlefortress3\battlefortress3.map
+- `1 MAPS FROM MAP.INI/Battle of the Best/Battle of the Best.map` — same file as 1 MAPS FROM MAP.INI\BattleOfTheBest\battleofthebest.map
+- `1 MAPS FROM MAP.INI/Battle Of The Themes/Battle Of The Themes.map` — same file as 1 MAPS FROM MAP.INI\battleofthethemes\battleofthethemes.map
+- `1 MAPS FROM MAP.INI/Battleship Bay/Battleship Bay.map` — same file as Battleship Bay\Battleship Bay.map
+- `1 MAPS FROM MAP.INI/BBB/BBB.map` — same file as BBB\BBB.map
+- `1 MAPS FROM MAP.INI/Black Ops Agents - Operation Antidote/Black Ops Agents - Operation Antidote.map` — same file as black ops agents - operation antidote\black ops agents - operation antidote.map
+- `1 MAPS FROM MAP.INI/Bridges to Boss Isle/Bridges to Boss Isle.map` — same file as 1 MAPS FROM MAP.INI\bridgestobossisle\bridgestobossisle.map
+- `1 MAPS FROM MAP.INI/Bushehr_Partisans_Challenge/Bushehr_Partisans_Challenge.map` — same file as Bushehr_Partisans_Challenge\Bushehr_Partisans_Challenge.map
+- `1 MAPS FROM MAP.INI/Casino - Frozen Lowlands Fixed/Casino - Frozen Lowlands Fixed.map` — same file as casino - frozen lowlands fixed\Casino - Frozen Lowlands Fixed.map
+- `1 MAPS FROM MAP.INI/Classic Fallen Empire/Classic Fallen Empire.map` — same file as Classic Fallen Empire\Classic Fallen Empire.map
+- `1 MAPS FROM MAP.INI/Classic Tournament Desert/Classic Tournament Desert.map` — same file as Classic Tournament Desert\Classic Tournament Desert.map
+- `1 MAPS FROM MAP.INI/Clearlake Battle/Clearlake Battle.map` — same file as 1 MAPS FROM MAP.INI\clearlakebattle\clearlakebattle.map
+- `1 MAPS FROM MAP.INI/Compstomp 3vs5 Desert Senario by Thomas Alan [pashacnc com]/Compstomp 3vs5 Desert Senario by Thomas Alan [pashacnc com].map` — same file as 1 MAPS FROM MAP.INI\DesertSenarioCompstomp\DesertSenarioCompstomp.map
+- `1 MAPS FROM MAP.INI/COOP - GLA vs AirF - Iranian Counterstrike ZH/COOP - GLA vs AirF - Iranian Counterstrike ZH.map` — same file as [Coop] Iranian Counterstrike ZH\[Coop] Iranian Counterstrike ZH.map
+- `1 MAPS FROM MAP.INI/Crazy Beach v5/Crazy Beach v5.map` — same file as Crazy Beach v5\Crazy Beach v5.map
+- `1 MAPS FROM MAP.INI/CWC AS (AI) Kozelsk (Day)(Rain)/CWC AS (AI) Kozelsk (Day)(Rain).map` — same file as 1 MAPS FROM MAP.INI\CWC AS (AI) Kozelsk (Day)\CWC AS (AI) Kozelsk (Day).map
+- `1 MAPS FROM MAP.INI/CWC SO 4 Player (AI) Rostov (Day)(Snow)/CWC SO 4 Player (AI) Rostov (Day)(Snow).map` — same file as 1 MAPS FROM MAP.INI\CWC SO 4 Player (AI) Rostov (Day)\CWC SO 4 Player (AI) Rostov (Day).map
+- `1 MAPS FROM MAP.INI/Dackel's TD Final/Dackel's TD Final.map` — same file as Dackel's TD Final\Dackel's TD Final.map
+- `1 MAPS FROM MAP.INI/DaRk Valley/DaRk Valley.map` — same file as 1 MAPS FROM MAP.INI\darkvalley\darkvalley.map
+- `1 MAPS FROM MAP.INI/Das Paradies/Das Paradies.map` — same file as 1 MAPS FROM MAP.INI\dasparadies\dasparadies.map
+- `1 MAPS FROM MAP.INI/Defcon 51 Winter/Defcon 51 Winter.map` — same file as Defcon 51 Winter\Defcon 51 Winter.map
+- `1 MAPS FROM MAP.INI/defcon 8 by illmakeueargasm/defcon 8 by illmakeueargasm.map` — same file as defcon 8 by illmakeueargasm\defcon 8 by illmakeueargasm.map
+- `1 MAPS FROM MAP.INI/Dragon Canyon/Dragon Canyon.map` — same file as Dragon Canyon\Dragon Canyon.map
+- `1 MAPS FROM MAP.INI/echo isle [wbc2023]/echo isle [wbc2023].map` — same file as Echo Isle [WBC2023]\Echo Isle [WBC2023].map
+- `1 MAPS FROM MAP.INI/Fallen Empire Reloaded/Fallen Empire Reloaded.map` — same file as Fallen Empire Reloaded\Fallen Empire Reloaded.map
+- `1 MAPS FROM MAP.INI/Flower Oases/Flower Oases.map` — same file as Flower Oases\Flower Oases.map
+- `1v1_maps_unranked/Canyon Frost ZH v1/canyon frost zh v1.map` — same file as Canyon Frost ZH v1\canyon frost zh v1.map
+- `1v1_maps_unranked/Crazy Beach v7/Crazy Beach v7.map` — same file as Crazy Beach v5\Crazy Beach v5.map
+- `1v1_maps_unranked/Entropy's Empire v3/Entropy's Empire v3.map` — same file as Entropy's Empire v3\Entropy's Empire v3.map
+- `1v1_maps_unranked/Forest of Camelot ZH v4/Forest of Camelot ZH v4.map` — same file as forest of camelot zh v4\Forest of Camelot ZH v4.map
+- `1v1_maps_unranked/GenTools secret Lab A/GenTools secret Lab A.map` — same file as GenTools secret Lab A\GenTools secret Lab A.map
+- `1v1_maps_unranked/Tournament Desert Sandstorm/Tournament Desert Sandstorm.map` — same file as Tournament Desert Sandstorm\Tournament Desert Sandstorm.map
+- `1v1_maps_unranked/yota nation arena v3/yota nation arena v3.map` — same file as yota nation arena v3\yota nation arena v3.map
+- `1v1v1v1v1v1 no money by krisu fair play5/1v1v1v1v1v1 no money by krisu fair play5.map` — same file as [NoMoney] 1v1v1v1v1v1 by Krisu v5\1v1v1v1v1v1 no money by krisu fair play5.map
+- `2 MAPS FROM MAP.INI/Generals Challenge Battle/Generals Challenge Battle.map` — same file as Generals Challenge Battle\Generals Challenge Battle.map
+- `2 MAPS FROM MAP.INI/GenTools secret Lab A/GenTools secret Lab A.map` — same file as GenTools secret Lab A\GenTools secret Lab A.map
+- `2 MAPS FROM MAP.INI/Instant-Shock Arena v2/Instant-Shock Arena v2.map` — same file as Instant-Shock Arena v2\Instant-Shock Arena v2.map
+- `2 MAPS FROM MAP.INI/Kill Crush and Destroy/Kill Crush and Destroy.map` — same file as 2 MAPS FROM MAP.INI\killcrushanddestroy\killcrushanddestroy.map
+- `2 MAPS FROM MAP.INI/Little River/Little River.map` — same file as 2 MAPS FROM MAP.INI\littleriver\littleriver.map
+- `2 MAPS FROM MAP.INI/Lone Eagle [No Rush 10 Min]/Lone Eagle [No Rush 10 Min].map` — same file as Lone Eagle [No Rush 10 Min]\Lone Eagle [No Rush 10 Min].map
+- `2 MAPS FROM MAP.INI/Melting Snow ZH v2/Melting Snow ZH v2.map` — same file as Melting Snow ZH v2\Melting Snow ZH v2.map
+- `2 MAPS FROM MAP.INI/MiddleMan-Friendly/MiddleMan-Friendly.map` — same file as MiddleMan-Friendly\MiddleMan-Friendly.map
+- `2 MAPS FROM MAP.INI/MissionPOWcapture/MissionPOWcapture.map` — same file as POWcapture\POWcapture.map
+- `2 MAPS FROM MAP.INI/Mologu Tiao (cnchq turney)/Mologu Tiao (cnchq turney).map` — same file as 2 MAPS FROM MAP.INI\Mologu Tiao\Mologu Tiao.map
+- `2 MAPS FROM MAP.INI/Mt Pinatubo [WBC2022]/Mt Pinatubo [WBC2022].map` — same file as Mt Pinatubo [WBC2022]\Mt Pinatubo [WBC2022].map
+- `4 MAPS FROM MAP.INI/Alaska Oil Conflict/Alaska Oil Conflict.map` — same file as 1 MAPS FROM MAP.INI\Alaska Oil Conflict\Alaska Oil Conflict.map
+- `4 MAPS FROM MAP.INI/Arctic Challenge/Arctic Challenge.map` — same file as 1 MAPS FROM MAP.INI\Arctic Challenge\Arctic Challenge.map
+- `4 MAPS FROM MAP.INI/Bad Intentions v3/Bad Intentions v3.map` — same file as Bad Intentions v3\Bad Intentions v3.map
+- `4 MAPS FROM MAP.INI/Countryside Offence/Countryside Offence.map` — same file as 1 MAPS FROM MAP.INI\Countryside Offence\Countryside Offence.map
+- `4 MAPS FROM MAP.INI/Desert Mountains/Desert Mountains.map` — same file as 1 MAPS FROM MAP.INI\Desert Mountains\Desert Mountains.map
+- `4 MAPS FROM MAP.INI/Fergi's Revenge v2/Fergi's Revenge v2.map` — same file as Fergi's Revenge v2\Fergi's Revenge v2.map
+- `4 MAPS FROM MAP.INI/Freezing Village/Freezing Village.map` — same file as 1 MAPS FROM MAP.INI\Freezing Village\Freezing Village.map
+- `4 MAPS FROM MAP.INI/Frozen Islands/Frozen Islands.map` — same file as 1 MAPS FROM MAP.INI\Frozen Islands\Frozen Islands.map
+- `4 MAPS FROM MAP.INI/Hill Fight/Hill Fight.map` — same file as 2 MAPS FROM MAP.INI\Hill Fight\Hill Fight.map
+- `4 MAPS FROM MAP.INI/Hometown Defense/Hometown Defense.map` — same file as 2 MAPS FROM MAP.INI\Hometown Defense\Hometown Defense.map
+- `4 MAPS FROM MAP.INI/Island Defense/Island Defense.map` — same file as 2 MAPS FROM MAP.INI\Island Defense\Island Defense.map
+- `4 MAPS FROM MAP.INI/Lake Tahoe Conflict/Lake Tahoe Conflict.map` — same file as 2 MAPS FROM MAP.INI\Lake Tahoe Conflict\Lake Tahoe Conflict.map
+- `4 MAPS FROM MAP.INI/Mini Money v4/Mini Money v4.map` — same file as Mini Money v4\Mini Money v4.map
+- `4 MAPS FROM MAP.INI/Mission Desert Lightning/Mission Desert Lightning.map` — same file as Mission Desert Lightning\Mission Desert Lightning.map
+- `4 MAPS FROM MAP.INI/Monument Valley/Monument Valley.map` — same file as 2 MAPS FROM MAP.INI\Monument Valley\Monument Valley.map
+- `4 MAPS FROM MAP.INI/Operation Tumbleweed/Operation Tumbleweed.map` — same file as Operation Tumbleweed\Operation Tumbleweed.map
+- `4 MAPS FROM MAP.INI/Outpost 7 v2/Outpost 7 v2.map` — same file as Outpost 7 v2\Outpost 7 v2.map
+- `4 MAPS FROM MAP.INI/Screaming Broccoli v4/Screaming Broccoli v4.map` — same file as Screaming Broccoli v4\Screaming Broccoli v4.map
+- `4 MAPS FROM MAP.INI/Wells of Chaos v3/Wells of Chaos v3.map` — same file as wells of chaos v3\wells of chaos v3.map
+- `7 MAPS 7/ALITA PL 7 OPEN/ALITA PL 7 OPEN.map` — same file as ALITA PL 7 OPEN\ALITA PL 7 OPEN.map
+- `7 MAPS 7/ALITA PL 7/ALITA PL 7.map` — same file as ALITA PL 7\ALITA PL 7.map
+- `7 MAPS 7/BONDIANA PL 7 OPEN/BONDIANA PL 7 OPEN.map` — same file as BONDIANA PL 7 OPEN\BONDIANA PL 7 OPEN.map
+- `7 MAPS 7/BONDIANA PL 7/BONDIANA PL 7.map` — same file as BONDIANA PL 7\BONDIANA PL 7.map
+- `7 MAPS 7/PREDATOR PL 7 1 OPEN/PREDATOR PL 7 1 OPEN.map` — same file as PREDATOR PL 7 1 OPEN\PREDATOR PL 7 1 OPEN.map
+- `7 MAPS 7/PREDATOR PL 7 1/PREDATOR PL 7 1.map` — same file as PREDATOR PL 7 1\PREDATOR PL 7 1.map
+- `7 MAPS 7/PREDATOR PL 7 OPEN/PREDATOR PL 7 OPEN.map` — same file as PREDATOR PL 7 OPEN\PREDATOR PL 7 OPEN.map
+- `7 MAPS 7/PREDATOR PL 7/PREDATOR PL 7.map` — same file as PREDATOR PL 7\PREDATOR PL 7.map
+- `7 MAPS 7/WARMING PL 7 OPEN/WARMING PL 7 OPEN.map` — same file as WARMING PL 7\WARMING PL 7.map
+- `7 MAPS 7/WARMING PL 7/WARMING PL 7.map` — same file as WARMING PL 7\WARMING PL 7.map
+- `888 MAPS/1 BTRSSSR 1 OPEN/1 BTRSSSR 1 OPEN.map` — same file as 1 BTRSSSR 1 OPEN\1 BTRSSSR 1 OPEN.map
+- `888 MAPS/1 BTRSSSR 1/1 BTRSSSR 1.map` — same file as 1 BTRSSSR 1\1 BTRSSSR 1.map
+- `888 MAPS/1 BTRSSSR 2 OPEN/1 BTRSSSR 2 OPEN.map` — same file as 1 BTRSSSR 2 OPEN\1 BTRSSSR 2 OPEN.map
+- `888 MAPS/1 BTRSSSR 2/1 BTRSSSR 2.map` — same file as 1 BTRSSSR 2\1 BTRSSSR 2.map
+- `888 MAPS/1 BTRSSSR 3 OPEN/1 BTRSSSR 3 OPEN.map` — same file as 1 BTRSSSR 3 OPEN\1 BTRSSSR 3 OPEN.map
+- `888 MAPS/1 BTRSSSR 3/1 BTRSSSR 3.map` — same file as 1 BTRSSSR 3\1 BTRSSSR 3.map
+- `888 MAPS/1 BTRSSSR OPEN/1 BTRSSSR OPEN.map` — same file as 1 BTRSSSR OPEN\1 BTRSSSR OPEN.map
+- `888 MAPS/1 BTRSSSR/1 BTRSSSR.map` — same file as 1 BTRSSSR\1 BTRSSSR.map
+- `888 MAPS/1 FLATLANDS OPEN/1 FLATLANDS OPEN.map` — same file as 1 FLATLANDS OPEN\1 FLATLANDS OPEN.map
+- `888 MAPS/1 FLATLANDS/1 FLATLANDS.map` — same file as 1 FLATLANDS\1 FLATLANDS.map
+- `888 MAPS/2 BTRSSSR OPEN/2 BTRSSSR OPEN.map` — same file as 2 BTRSSSR OPEN\2 BTRSSSR OPEN.map
+- `888 MAPS/2 BTRSSSR/2 BTRSSSR.map` — same file as 2 BTRSSSR\2 BTRSSSR.map
+- `888 MAPS/3 BTRSSSR OPEN/3 BTRSSSR OPEN.map` — same file as 3 BTRSSSR OPEN\3 BTRSSSR OPEN.map
+- `888 MAPS/3 BTRSSSR/3 BTRSSSR.map` — same file as 3 BTRSSSR\3 BTRSSSR.map
+- `888 MAPS/4 BTRSSSR OPEN/4 BTRSSSR OPEN.map` — same file as 4 BTRSSSR OPEN\4 BTRSSSR OPEN.map
+- `888 MAPS/4 BTRSSSR/4 BTRSSSR.map` — same file as 4 BTRSSSR\4 BTRSSSR.map
+- `888 MAPS/GENERALS 10 OPEN/GENERALS 10 OPEN.map` — same file as GENERALS 10 OPEN\GENERALS 10 OPEN.map
+- `888 MAPS/GENERALS 10/GENERALS 10.map` — same file as GENERALS 10\GENERALS 10.map
+- `888 MAPS/GENERALS 11 OPEN/GENERALS 11 OPEN.map` — same file as GENERALS 11 OPEN\GENERALS 11 OPEN.map
+- `888 MAPS/GENERALS 11/GENERALS 11.map` — same file as GENERALS 11\GENERALS 11.map
+- `888 MAPS/GENERALS 12 OPEN/GENERALS 12 OPEN.map` — same file as GENERALS 12 OPEN\GENERALS 12 OPEN.map
+- `888 MAPS/GENERALS 12/GENERALS 12.map` — same file as GENERALS 12\GENERALS 12.map
+- `888 MAPS/GENERALS 9 1 OPEN/GENERALS 9 1 OPEN.map` — same file as GENERALS 9 1 OPEN\GENERALS 9 1 OPEN.map
+- `888 MAPS/GENERALS 9 1/GENERALS 9 1.map` — same file as GENERALS 9 1\GENERALS 9 1.map
+- `888 MAPS/GENERALS 9 OPEN/GENERALS 9 OPEN.map` — same file as GENERALS 9 OPEN\GENERALS 9 OPEN.map
+- `888 MAPS/GENERALS 9/GENERALS 9.map` — same file as GENERALS 9\GENERALS 9.map
+- `888 MAPS/OOPS GANGNAM STYLE OPEN/OOPS GANGNAM STYLE OPEN.map` — same file as OOPS GANGNAM STYLE OPEN\OOPS GANGNAM STYLE OPEN.map
+- `888 MAPS/OOPS GANGNAM STYLE/OOPS GANGNAM STYLE.map` — same file as OOPS GANGNAM STYLE\OOPS GANGNAM STYLE.map
+- `Arizona Airfield/[RANK] Arizona Airfield ZH v1.map` — same file as Arizona Airfield v4\Arizona Airfield v4.map
+- `art of attack by e-3 v2/art of attack by e-3 v2/art of attack by e-3 v2.map` — same file as art of attack by e-3 v2\art of attack by e-3 v2.map
+- `casino  1v1v1v1n by dw no scuds version2/casino  1v1v1v1n by dw no scuds version2.map` — same file as 5) casino [no scuds] by dw version2\5) casino [no scuds] by dw version2.map
+- `casino 5 players balanced v5/casino 5 players balanced v5.map` — same file as casino v5\casino v5.map
+- `casino diamond v3_1 creative v2 by dw/casino diamond v3_1 creative v2 by dw/casino diamond v3_1 creative v2 by dw.map` — same file as casino diamond v3_1 creative v2 by dw\casino diamond v3_1 creative v2 by dw.map
+- `Casino5playersBALANCEDv5/Casino 5 players BALANCED v5/Casino 5 players BALANCED v5.map` — same file as casino v5\casino v5.map
+- `coop - gla vs airf - iranian counterstrike zh/coop - gla vs airf - iranian counterstrike zh.map` — same file as [Coop] Iranian Counterstrike ZH\[Coop] Iranian Counterstrike ZH.map
+- `Magnetawan v4/Magnetawan v4/Magnetawan v4.map` — same file as Magnetawan v4\Magnetawan v4.map
+- `Meldown Madness v4/Meldown Madness v4/Meldown Madness v4.map` — same file as Meldown Madness v4\Meldown Madness v4.map
+- `Mount Pleasant v2/Mount Pleasant v2/Mount Pleasant v2.map` — same file as Mount Pleasant v2\Mount Pleasant v2.map
+- `New folder (3)/Ahmic Harbour v2/Ahmic Harbour v2.map` — same file as Ahmic Harbour v2\Ahmic Harbour v2.map
+- `New folder (3)/Arena Chaos v3/Arena Chaos v3.map` — same file as Arena Chaos v3\Arena Chaos v3.map
+- `New folder (3)/Bad Intentions 8pl v5/Bad Intentions 8pl v5.map` — same file as Bad Intentions 8pl v5\Bad Intentions 8pl v5.map
+- `New folder (3)/Brechin/Brechin.map` — same file as Brechin\Brechin.map
+- `New folder (3)/Cobeconk v2/Cobeconk v2.map` — same file as Cobeconk v2\Cobeconk v2.map
+- `New folder (3)/Farmland Rush/Farmland Rush.map` — same file as Farmland Rush\Farmland Rush.map
+- `New folder (3)/Fergi's Revenge v2/Fergi's Revenge v2.map` — same file as Fergi's Revenge v2\Fergi's Revenge v2.map
+- `New folder (3)/Get Sum Eight/Get Sum Eight.map` — same file as Get Sum Eight\Get Sum Eight.map
+- `New folder (3)/Gravenhurst v5/Gravenhurst v5.map` — same file as Gravenhurst v5\Gravenhurst v5.map
+- `New folder (3)/Magnetawan v2/Magnetawan v2.map` — same file as Magnetawan v2\Magnetawan v2.map
+- `New folder (3)/Magnetawan v4/Magnetawan v4.map` — same file as Magnetawan v4\Magnetawan v4.map
+- `New folder (3)/Magnetawan v4/Magnetawan v4/Magnetawan v4.map` — same file as Magnetawan v4\Magnetawan v4.map
+- `New folder (3)/Meldown Madness v4/Meldown Madness v4.map` — same file as Meldown Madness v4\Meldown Madness v4.map
+- `New folder (3)/Meldown Madness v4/Meldown Madness v4/Meldown Madness v4.map` — same file as Meldown Madness v4\Meldown Madness v4.map
+- `New folder (3)/Minden/Minden.map` — same file as Minden\Minden.map
+- `New folder (3)/Mini Mayhem/Mini Mayhem.map` — same file as Mini Mayhem\Mini Mayhem.map
+- `New folder (3)/Mini Money v4/Mini Money v4.map` — same file as Mini Money v4\Mini Money v4.map
+- `New folder (3)/Minimap2jhg/Minimap2jhg.map` — same file as Minimap2jhg\Minimap2jhg.map
+- `New folder (3)/Mogadishu Shrine Revamped v4/Mogadishu Shrine Revamped v4.map` — same file as Mogadishu Shrine Revamped v4\Mogadishu Shrine Revamped v4.map
+- `New folder (3)/Mount Pleasant v2/Mount Pleasant v2.map` — same file as Mount Pleasant v2\Mount Pleasant v2.map
+- `New folder (3)/Mount Pleasant v2/Mount Pleasant v2/Mount Pleasant v2.map` — same file as Mount Pleasant v2\Mount Pleasant v2.map
+- `New folder (3)/North Bay/North Bay.map` — same file as North Bay\North Bay.map
+- `New folder (3)/Open Border/Open Border.map` — same file as Open Border\Open Border.map
+- `New folder (3)/Outpost 7 v2/Outpost 7 v2.map` — same file as Outpost 7 v2\Outpost 7 v2.map
+- `New folder (3)/Peterborough v4/Peterborough v4.map` — same file as peterborough v4\Peterborough v4.map
+- `New folder (3)/Peterborough v4/Peterborough v4/Peterborough v4.map` — same file as peterborough v4\Peterborough v4.map
+- `New folder (3)/Polar Wind v2/Polar Wind v2.map` — same file as Polar Wind v2\Polar Wind v2.map
+- `New folder (3)/Port Hope v2/Port Hope v2.map` — same file as Port Hope v2\Port Hope v2.map
+- `New folder (3)/Port Hope/Port Hope.map` — same file as Port Hope\Port Hope.map
+- `New folder (3)/Screaming Broccoli v4/Screaming Broccoli v4.map` — same file as Screaming Broccoli v4\Screaming Broccoli v4.map
+- `New folder (3)/Urban Evacuation/Urban Evacuation.map` — same file as Urban Evacuation\Urban Evacuation.map
+- `New folder (3)/Washago v5/Washago v5.map` — same file as washago v5\Washago v5.map
+- `New folder (3)/Washago v5/Washago v5/Washago v5.map` — same file as washago v5\Washago v5.map
+- `New folder (3)/Wells of Chaos v3/Wells of Chaos v3.map` — same file as wells of chaos v3\wells of chaos v3.map
+- `New folder (3)/Wheel of Death v5/Wheel of Death v5.map` — same file as Wheel of Death v5\Wheel of Death v5.map
+- `Other ReLaX Maps (FFAs)/Winter Heptagon ZH v1/Winter Heptagon ZH v1.map` — same file as Winter Heptagon ZH v1\Winter Heptagon ZH v1.map
+- `persian gulf conflict zh v5/persian gulf conflict zh v5.map` — same file as Persian Gulf Conflict fx\Persian Gulf Conflict fx.map
+- `Seasonal Conflict Summer Edition v1/Seasonal Conflict Summer Edition v1.map` — same file as Seasonal Conflict Summer Edition\Seasonal Conflict Summer Edition.map
+- `WARMING PL 7 OPEN/WARMING PL 7 OPEN.map` — same file as WARMING PL 7\WARMING PL 7.map
+- `washago v5/Washago v5/Washago v5.map` — same file as washago v5\Washago v5.map
+
+## no start positions (mission or broken map) (23)
+
+- `1 MAPS FROM MAP.INI/Abominable Snowmen/Abominable Snowmen.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Charlie Dont Surf/Charlie Dont Surf.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Circle of Light/Circle of Light.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Col Burtons Toughest Mission/Col Burtons Toughest Mission.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Cradle Summit/Cradle Summit.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Dambreaker/Dambreaker.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Defend_an_Egg_China_Public/Defend_an_Egg_China_Public.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Defend_an_Egg_GLA_Public/Defend_an_Egg_GLA_Public.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/Defend_an_Egg_USA_ Public/Defend_an_Egg_USA_ Public.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/DS10k - 2_2/DS10k - 2_2.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/DS10k - 2/DS10k - 2.map` — no start positions (mission or broken map)
+- `1 MAPS FROM MAP.INI/DS10k - GAT v Spectre/DS10k - GAT v Spectre.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/GGB01/GGB01.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/GGB02/GGB02.MAP` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/GGB03/GGB03.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/GGB04/GGB04.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/Golden Retribution/Golden Retribution.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/Guardian Angel/Guardian Angel.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/Minigame - Trashman/Minigame - Trashman.map` — no start positions (mission or broken map)
+- `2 MAPS FROM MAP.INI/Mission 3 Bombs in Riyadh/Mission 3 Bombs in Riyadh.map` — no start positions (mission or broken map)
+- `4 MAPS FROM MAP.INI/ShellMap1/ShellMap1.map` — no start positions (mission or broken map)
+- `City_In_Terror_1-1/City_In_Terror.map` — no start positions (mission or broken map)
+- `Operation ClearWaters/(dan)Operation ClearWaters.map` — no start positions (mission or broken map)
+
+## ships with the game (3)
+
+- `2 MAPS FROM MAP.INI/Iron Dragon/Iron Dragon.map` — ships with the game
+- `2 MAPS FROM MAP.INI/Mountain Guns/Mountain Guns.map` — ships with the game
+- `4 MAPS FROM MAP.INI/ShellMapMD/ShellMapMD.map` — ships with the game
+
+## Author's note (1)
+
+- `2 MAPS FROM MAP.INI/Heat of the Night/Heat of the Night.map` — author's note: Readme.txt says "Do not host"
+
